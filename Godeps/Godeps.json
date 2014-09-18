@@ -1,5 +1,8 @@
 {
 	"ImportPath": "github.com/srt32/golang_heroku_scheduler_app",
 	"GoVersion": "go1.3",
+	"Packages": [
+		"./work"
+	],
 	"Deps": []
 }
