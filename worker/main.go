@@ -5,7 +5,7 @@ import(
 	"fmt"
 )
 
-func Worker() {
+func main() {
 	for {
 		fmt.Println("Working...")
 		time.Sleep(2 * time.Second)
